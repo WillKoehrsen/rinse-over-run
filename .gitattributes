@@ -1,2 +1,4 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
 out filter=lfs diff=lfs merge=lfs -text
+out/test_summaries.pkl filter=lfs diff=lfs merge=lfs -text
+out/train_summaries.pkl filter=lfs diff=lfs merge=lfs -text
